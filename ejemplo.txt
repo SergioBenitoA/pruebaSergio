@@ -1,4 +1,9 @@
 Mi primer ns q
 Mi segundo ns q
+<<<<<<< HEAD
 Nueva modificacion
 prueba
+=======
+Hola. Esto es una prueba de IntelIJ
+Soy carlos
+>>>>>>> 937868b2fbb0b59d3fab872a49b9acc399b71789
